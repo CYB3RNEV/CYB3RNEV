@@ -1,5 +1,5 @@
 👋 Hi, I’m @CYB3RNEV (Neveah Charles)  
-**Future-Focused Cybersecurity & AI Explorer**  
+**Future-Focused Cybersecurity/IT/AI Explorer**  
 
 👀 **I’m interested in...**  
 🔐 Ethical hacking & digital forensics  
