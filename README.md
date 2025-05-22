@@ -1,32 +1,3 @@
-👋 Hi, I’m @CYB3RNEV (Neveah Charles)  
-**Future-Focused Cybersecurity/IT/AI Explorer**  
-
-👀 **I’m interested in...**  
-🔐 Ethical hacking & digital forensics  
-🤖 Building AI solutions 
-🛡️ Securing the human layer (social engineering defense)  
-🎮 Making tech accessible  
-
-🌱 **I’m currently learning...**  
-• Offensive security techniques 
-• Cloud architecture 
-• CompTIA Security+/Network+ curriculum  
-
-💞️ **I’m looking to collaborate on...**  
-• Open-source cybersecurity tools for education  
-• AI projects that bridge tech and community needs  
-• Youth mentorship initiatives in STEM  
-
-📫 **How to reach me:**  
-📧 Professional: neyniycc@gmail.com  
-💼 LinkedIn: [in/neveah-charles](https://www.linkedin.com/in/neveah-charles/)  
-
-😄 **Pronouns:** She/Her  
-
-⚡ **Fun facts:**    
-• Can explain OSI model using only pizza analogies 🍕  
-• Volunteering at a senior living home taught me more about social engineering than any textbook! 
-
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJxY2VqZ2NtY3B2dGZ2Y2x4Z2V6Y2JtYzZzNGF5bmRqYzB6eGZ1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Cyber Welcome"/>
   <h1>👋 Hi, I'm <span style="color: #6e48aa">CYB3RNEV</span> (Neveah Charles)</h1>
@@ -57,15 +28,35 @@
     </td>
   </tr>
 </table>
-
 ---
 
-## 🌱 **Current Learning Journey**
+👋 Hi, I’m @CYB3RNEV (Neveah Charles)  
+**Future-Focused Cybersecurity/IT/AI Explorer**  
 
-```mermaid
-pie
-    title Learning Focus Areas
-    "Offensive Security" : 35
-    "Cloud Architecture" : 25
-    "CompTIA Prep" : 30
-    "AI Ethics" : 10
+👀 **I’m interested in...**  
+🔐 Ethical hacking & digital forensics  
+🤖 Building AI solutions 
+🛡️ Securing the human layer (social engineering defense)  
+🎮 Making tech accessible  
+
+🌱 **I’m currently learning...**  
+• Offensive security techniques 
+• Cloud architecture 
+• CompTIA Security+/Network+ curriculum  
+
+💞️ **I’m looking to collaborate on...**  
+• Open-source cybersecurity tools for education  
+• AI projects that bridge tech and community needs  
+• Youth mentorship initiatives in STEM  
+
+📫 **How to reach me:**  
+📧 Professional: neyniycc@gmail.com  
+💼 LinkedIn: [in/neveah-charles](https://www.linkedin.com/in/neveah-charles/)  
+
+😄 **Pronouns:** She/Her  
+
+⚡ **Fun facts:**    
+• Can explain OSI model using only pizza analogies 🍕  
+• Volunteering at a senior living home taught me more about social engineering than any textbook! 
+
+
