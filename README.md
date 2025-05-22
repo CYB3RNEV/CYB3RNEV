@@ -4,8 +4,8 @@
   <h3>🔭 Future-Focused Cybersecurity/IT/AI Explorer</h3>
   
   ![Cybersecurity](https://img.shields.io/badge/-CYBERSECURITY-2e2e2e?style=flat&logo=lock)
-  ![AI Developer](https://img.shields.io/badge/AI_DEVELOPER-FF6B00?style=flat&logo=ai)
-  ![Tech Educator](https://img.shields.io/badge/TECH_EDUCATOR-00C4CC?style=flat&logo=book)
+  ![AI Developer](https://img.shields.io/badge/AI_-FF6B00?style=flat&logo=ai)
+  ![Tech Educator](https://img.shields.io/badge/TECH_-00C4CC?style=flat&logo=book)
 </div>
 
 ---
