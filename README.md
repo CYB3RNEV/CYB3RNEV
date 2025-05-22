@@ -20,7 +20,7 @@
         <li>🔐 <b>Ethical hacking & digital forensics</b></li>
         <li>🤖 <b>Building AI security solutions</b></li>
         <li>🛡️ <b>Human layer security</b> (social engineering defense)</li>
-        <li>🎮 <b>Making tech accessible</b> through gamification</li>
+        <li>🎮 <b>Making tech accessible</b> </li>
       </ul>
     </td>
     <td width="50%">
