@@ -28,16 +28,6 @@
     </td>
   </tr>
 </table>
----
-
-👋 Hi, I’m @CYB3RNEV (Neveah Charles)  
-**Future-Focused Cybersecurity/IT/AI Explorer**  
-
-👀 **I’m interested in...**  
-🔐 Ethical hacking & digital forensics  
-🤖 Building AI solutions 
-🛡️ Securing the human layer (social engineering defense)  
-🎮 Making tech accessible  
 
 🌱 **I’m currently learning...**  
 • Offensive security techniques 
